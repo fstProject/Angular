@@ -1,7 +1,11 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "cli": {
+<<<<<<< HEAD
     "analytics": "1ed61d6c-ea0f-4829-ab31-b8e147d50822"
+=======
+    "analytics": false
+>>>>>>> 2f9cebaa5de063f9c1bfd16eaae83364beb6097b
   },
   "version": 1,
   "newProjectRoot": "projects",
@@ -15,7 +19,11 @@
       },
       "root": "",
       "sourceRoot": "src",
+<<<<<<< HEAD
       "prefix": "app",
+=======
+      "prefix": "Ecommerce",
+>>>>>>> 2f9cebaa5de063f9c1bfd16eaae83364beb6097b
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
