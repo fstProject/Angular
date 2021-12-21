@@ -1,0 +1,11 @@
+#product{
+    display:flex ; 
+    margin:10px;
+    background-color: #b1bfca ;
+    flex-direction: column;
+    width: 10rem;
+    height: 15rem;
+    align-items: center;
+    justify-content:space-around  ;
+    float: left;
+}
